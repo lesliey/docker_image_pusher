@@ -3,3 +3,5 @@ node:18.0.0
 node:18.12.0
 ypptec/nascab:latest
 jlesage/firefox:latest
+jellyfin/jellyfin:latest
+linuxserver/jellyfin:latest
