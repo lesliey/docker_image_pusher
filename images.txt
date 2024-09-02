@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin:latest
+vaultwarden/server:latest
