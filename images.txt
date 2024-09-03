@@ -1,1 +1,2 @@
-vaultwarden/server:latest
+p3terx/aria2-pro:latest
+p3terx/ariang:latest
