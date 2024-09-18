@@ -1,1 +1,1 @@
---platform=linux/arm/v7 corentinth/it-tools:latest
+--platform=linux/arm/v7 inuxserver/jackett:latest
