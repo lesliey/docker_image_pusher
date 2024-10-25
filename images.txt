@@ -1,1 +1,4 @@
 --platform=linux/arm/v7 linuxserver/qbittorrent:latest
+--platform=linux/arm/v7 zerotier/zerotier:latest
+--platform=linux/amd64 zerotier/zerotier:latest
+
